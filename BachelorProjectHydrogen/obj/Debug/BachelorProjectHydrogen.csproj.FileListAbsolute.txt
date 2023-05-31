@@ -1,0 +1,13 @@
+C:\Users\john5\Desktop\skolai\5_sem\Viz\BachelorProjectHydrogen\BachelorProjectHydrogen\bin\Debug\BachelorProjectHydrogen.exe.config
+C:\Users\john5\Desktop\skolai\5_sem\Viz\BachelorProjectHydrogen\BachelorProjectHydrogen\bin\Debug\BachelorProjectHydrogen.exe
+C:\Users\john5\Desktop\skolai\5_sem\Viz\BachelorProjectHydrogen\BachelorProjectHydrogen\bin\Debug\BachelorProjectHydrogen.pdb
+C:\Users\john5\Desktop\skolai\5_sem\Viz\BachelorProjectHydrogen\BachelorProjectHydrogen\obj\Debug\BachelorProjectHydrogen.csproj.AssemblyReference.cache
+C:\Users\john5\Desktop\skolai\5_sem\Viz\BachelorProjectHydrogen\BachelorProjectHydrogen\obj\Debug\BachelorProjectHydrogen.csproj.SuggestedBindingRedirects.cache
+C:\Users\john5\Desktop\skolai\5_sem\Viz\BachelorProjectHydrogen\BachelorProjectHydrogen\obj\Debug\BachelorProjectHydrogen.Properties.Resources.resources
+C:\Users\john5\Desktop\skolai\5_sem\Viz\BachelorProjectHydrogen\BachelorProjectHydrogen\obj\Debug\BachelorProjectHydrogen.csproj.GenerateResource.cache
+C:\Users\john5\Desktop\skolai\5_sem\Viz\BachelorProjectHydrogen\BachelorProjectHydrogen\obj\Debug\BachelorProjectHydrogen.csproj.CoreCompileInputs.cache
+C:\Users\john5\Desktop\skolai\5_sem\Viz\BachelorProjectHydrogen\BachelorProjectHydrogen\obj\Debug\BachelorProjectHydrogen.exe
+C:\Users\john5\Desktop\skolai\5_sem\Viz\BachelorProjectHydrogen\BachelorProjectHydrogen\obj\Debug\BachelorProjectHydrogen.pdb
+C:\Users\john5\Desktop\skolai\5_sem\Viz\BachelorProjectHydrogen\BachelorProjectHydrogen\obj\Debug\BachelorProjectHydrogen.MainWindow.resources
+C:\Users\john5\Desktop\skolai\5_sem\Viz\BachelorProjectHydrogen\BachelorProjectHydrogen\obj\Debug\BachelorProjectHydrogen.ManualCommand.resources
+C:\Users\john5\Desktop\skolai\5_sem\Viz\BachelorProjectHydrogen\BachelorProjectHydrogen\obj\Debug\BachelorProjectHydrogen.ManualCyclograms.resources
