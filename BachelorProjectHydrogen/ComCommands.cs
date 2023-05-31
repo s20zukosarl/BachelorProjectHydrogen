@@ -155,7 +155,7 @@ namespace BachelorProjectHydrogen
             foreach (List<byte> partition in partitions)
             {
                 WriteToComPort(partition.ToArray());
-                
+               // Console.WriteLine(System.Text.Encoding.UTF8.GetString(partition.ToArray()));
             }
         }
 
@@ -211,7 +211,7 @@ namespace BachelorProjectHydrogen
             foreach(string s in allSteps)
             {
                 WriteToComPort(ConvertBinaryString(s));
-                //SendDataToSocketServer(binaryStringToDecString(fromClientSocket) +s);
+                SendDataToSocketServer(s);
                 await Task.Delay(timeInterval);
             }
         }
@@ -223,7 +223,7 @@ namespace BachelorProjectHydrogen
             foreach (string s in allSteps)
             {
                 WriteToComPort(ConvertBinaryString(s));
-                //SendDataToSocketServer(binaryStringToDecString(fromClientSocket)+s);
+                SendDataToSocketServer(s);
                 await Task.Delay(timeInterval);
             }
         }

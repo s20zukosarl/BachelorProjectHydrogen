@@ -213,7 +213,7 @@
             this.textBox4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(25)))), ((int)(((byte)(25)))), ((int)(((byte)(25)))));
             this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox4.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.textBox4.Location = new System.Drawing.Point(30, 153);
+            this.textBox4.Location = new System.Drawing.Point(26, 115);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(64, 13);
             this.textBox4.TabIndex = 12;
@@ -223,9 +223,9 @@
             this.button6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(13)))), ((int)(((byte)(0)))));
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button6.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.button6.Location = new System.Drawing.Point(26, 115);
+            this.button6.Location = new System.Drawing.Point(19, 143);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(96, 20);
+            this.button6.Size = new System.Drawing.Size(103, 20);
             this.button6.TabIndex = 13;
             this.button6.Text = "Set Time Intervals";
             this.button6.UseVisualStyleBackColor = false;
@@ -490,7 +490,7 @@
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(75, 45);
             this.button10.TabIndex = 41;
-            this.button10.Text = "Set Times";
+            this.button10.Text = "Set Times And Send";
             this.button10.UseVisualStyleBackColor = false;
             this.button10.Click += new System.EventHandler(this.button10_Click);
             // 

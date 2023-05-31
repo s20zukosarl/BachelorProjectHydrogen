@@ -31,7 +31,7 @@ namespace BachelorProjectHydrogen
             //response = System.Text.Encoding.ASCII.GetString(recvData);
             Console.WriteLine("Input from COM: ");
             Console.WriteLine(response);
-            SendDataToSocketServer(BinaryStringToDecString(fromController) + response);
+            SendDataToSocketServer(response);
             pressureMeasurement = GetPressureMeasurement();
             pressMeasurement = Convert.ToDouble(pressureMeasurement);
         }
